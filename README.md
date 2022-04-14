@@ -1,9 +1,8 @@
 # Game of life by @fernandondin
 
-A small representation of a Conway's 'Game of life'
+A small representation of a Conway's 'Game of life' using java processing 4.0
 
 
-# Curso Getting Started with Cisco Packet Tracer en Skills for All
 | Example of an initial state becaming oscillator  |
 |:---------------------------:|
 | ![](img/Juego1.png)         |
